@@ -42,3 +42,136 @@ By visualizing these insights in a Power BI dashboard, the analysis helps busine
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 ---
+
+### 📊 Sample Raw Data
+
+<div style="overflow-x:auto;">
+
+<table>
+  <thead>
+    <tr>
+      <th>Transaction&nbsp;ID</th>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Customer&nbsp;ID</th>
+      <th>Age</th>
+      <th>Gender</th>
+      <th>Location</th>
+      <th>Longitude</th>
+      <th>Latitude</th>
+      <th>Store&nbsp;ID</th>
+      <th>Online&nbsp;Order&nbsp;Flag</th>
+      <th>Product&nbsp;ID</th>
+      <th>Product&nbsp;Name</th>
+      <th>Category</th>
+      <th>Quantity</th>
+      <th>Promotion&nbsp;Applied</th>
+      <th>Gift&nbsp;Wrap</th>
+      <th>Shipping&nbsp;Method</th>
+      <th>Payment&nbsp;Type</th>
+      <th>Delivery&nbsp;Time</th>
+      <th>Weather&nbsp;during&nbsp;transaction</th>
+      <th>Event</th>
+      <th>Return&nbsp;Flag</th>
+      <th>Customer&nbsp;Satisfaction</th>
+      <th>Unit&nbsp;Price</th>
+      <th>Total&nbsp;Price</th>
+      <th>Discount&nbsp;Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>24/12/2020</td>
+      <td>07:27:59</td>
+      <td>441</td>
+      <td>27</td>
+      <td>Other</td>
+      <td>Ontario</td>
+      <td>51.2538</td>
+      <td>-85.3232</td>
+      <td>37</td>
+      <td>TRUE</td>
+      <td>106</td>
+      <td>Toys_Product</td>
+      <td>Toys</td>
+      <td>5</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>Standard</td>
+      <td>Credit&nbsp;Card</td>
+      <td>5</td>
+      <td>Snowy</td>
+      <td>None</td>
+      <td>FALSE</td>
+      <td>5</td>
+      <td>96.79</td>
+      <td>483.93</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>18/11/2022</td>
+      <td>14:36:39</td>
+      <td>340</td>
+      <td>43</td>
+      <td>Male</td>
+      <td>British&nbsp;Columbia</td>
+      <td>53.7267</td>
+      <td>-127.6476</td>
+      <td>24</td>
+      <td>TRUE</td>
+      <td>816</td>
+      <td>Clothing_Product</td>
+      <td>Clothing</td>
+      <td>1</td>
+      <td>TRUE</td>
+      <td>TRUE</td>
+      <td>Express</td>
+      <td>Credit&nbsp;Card</td>
+      <td>3</td>
+      <td>Sunny</td>
+      <td>None</td>
+      <td>TRUE</td>
+      <td>2</td>
+      <td>95.28</td>
+      <td>95.28</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>26/12/2019</td>
+      <td>20:23:50</td>
+      <td>31</td>
+      <td>25</td>
+      <td>Other</td>
+      <td>Quebec</td>
+      <td>46.8131</td>
+      <td>-71.2075</td>
+      <td>92</td>
+      <td>FALSE</td>
+      <td>508</td>
+      <td>Clothing_Product</td>
+      <td>Clothing</td>
+      <td>2</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>Standard</td>
+      <td>Credit&nbsp;Card</td>
+      <td>2</td>
+      <td>Rainy</td>
+      <td>Christmas&nbsp;Market</td>
+      <td>FALSE</td>
+      <td>4</td>
+      <td>52.37</td>
+      <td>104.74</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Christmas-Sales-Analysis-01-25/blob/main/dataset/data_dictionary.md)
+
+---
