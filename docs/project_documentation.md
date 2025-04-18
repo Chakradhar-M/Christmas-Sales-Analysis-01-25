@@ -175,3 +175,19 @@ By visualizing these insights in a Power BI dashboard, the analysis helps busine
 🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Christmas-Sales-Analysis-01-25/blob/main/dataset/data_dictionary.md)
 
 ---
+
+### 📊 **Key Performance Indicators (KPIs)**
+
+1️⃣ **Sales ($)**
+
+Represents the total revenue generated from customer purchases after applying discounts. This metric helps in assessing overall earnings and the effectiveness of promotions during the holiday season.
+
+2️⃣ **Sales Volume**
+
+Measures the total number of products sold. It gives insights into product demand and helps identify top-selling categories and purchasing behavior trends.
+
+3️⃣ **Transactions**
+
+Indicates the total number of unique sales transactions recorded. It provides an overview of customer activity and engagement during the festive period.
+
+---
